@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Pedro Henrique Moretti
+-Profissão: Educador Fisico
+-Cidade: Sorocaba - SP
+-O que faz nas horas vaga: GAMER
+-Feedback sobre o curso Qualidade de Software: Até o momento tudo perfeitamente didatico.
+-Feedback sobre a plataforma de estudo da EBAC: Muito boa mas poderiam colocar o material de apoio ligado direto na aula correspondente, facilita pro aluno.
 
 Obrigado!!!
 
